@@ -1,0 +1,20 @@
+load
+check for null values
+remove null values
+	Binning of variable like age can be done
+sepearte variables from traget
+	conver teh one hot encoding
+split into train and test
+normailzation
+pca
+
+train models - check score
+
+
+
+---------
+
+replace foreigner and telephone with 1 and 0 values
+get the one hot encoding - for categorical variables
+select only numeric variable
+seprate the targe from attributes
