@@ -1,0 +1,4 @@
+Concat Vs append ( concat is more general and commonly used)
+Merege Vs JOin ( Merge is more general and commonly used )
+Pivot Vs PIvot Table Vs Crosstrab  -- (pivot table is the most general invest timelearning this)
+Unstack Vs Stack (Not very important)
