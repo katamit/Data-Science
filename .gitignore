@@ -107,4 +107,8 @@ venv.bak/
 # ignore the pycharm files
 .idea/
 
-*logs/
+*logs/ 
+
+# ignore python for data data analysis book notebooks
+# cloneable at https://github.com/wesm/pydata-book.git
+.pydata-book/
